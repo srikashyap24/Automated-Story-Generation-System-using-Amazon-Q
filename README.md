@@ -32,16 +32,14 @@ The system is designed with a **fully serverless architecture**.
 
 **Architecture Diagram:**
 
-![Architecture](architecture.png)
-
+<img src="architecture_image.png"/>
 ---
 
 ## 🧪 Example Lambda Execution
 
 Below is a sample output of the Lambda function when executed successfully:
 
-![Lambda Output](lambda_output.png)
-
+<img src="lambda_working.png"/>
 ---
 
 ## 🧩 AWS Services Used
